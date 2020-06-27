@@ -1,5 +1,5 @@
 /**
- *It is an employee database program.
+ *It is an employee database program.This is thanghavel
  * This program tends to insert,fetch,remove and lists the employee details.
  */
 import java.sql.*;
